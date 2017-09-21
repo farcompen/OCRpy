@@ -12,7 +12,7 @@ from commandline : <br>
 python python_Ocr.py -r filename <br>
 
 If you want to do preproccess on image as like as median blur filter 
-use: <br> 
+: <br> 
 python Python_Ocr.py -r filename -i blur 
 
 
