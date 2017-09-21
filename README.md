@@ -7,7 +7,7 @@ Need to install PIL and Pytesseract for python OCR
 <br>
 pip install pytesseract
 
-<b>How To use </b> <br>
+<b>How to Use </b> <br>
 from commandline : <br>
 >python Python_OCR.py -r filename <br>
 
