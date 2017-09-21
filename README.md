@@ -9,10 +9,10 @@ pip install pytesseract
 
 <b>How To use </b> <br>
 from commandline : <br>
-python python_Ocr.py -r filename <br>
+python Python_OCR.py -r filename <br>
 
 If you want to do preproccess on image as like as median blur filter 
 : <br> 
-python Python_Ocr.py -r filename -i blur 
+python Python_OCR.py -r filename -i blur 
 
 
